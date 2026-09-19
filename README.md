@@ -6,24 +6,14 @@
 # **Welcome to the official overview for *kit-ernetes*!!**
 
 ### Table of Contents
-  * [About Me](#about-me)
-  * [Overview](#overview)
-  * [Architecture](#architecture)
-  * [Equipment and Parts](#equipment-and-parts)
-  * [Installs and Deployments](#installs-and-deployments)
-  * [Setup and Configuration](#setup-and-configuration)
-  * [Final Thoughts](#final-thoughts)
-  * [Conclusion](#conclusion)
 
-## About Me
-
-A little bit about me and my history in the industry. If you have any questions, please reach out to me at zhbrady@zackbrady.com!
-
-- Former Contractor
-- U.S. Military Reservist
-- Open-Source Contributor
-- Built and Exited a Digital Firm
-- Active Volunteer Firefighter/EMT
+- [Overview](#overview)
+- [Architecture](#architecture)
+- [Equipment and Parts](#equipment-and-parts)
+- [Installs and Deployments](#installs-and-deployments)
+- [Setup and Configuration](#setup-and-configuration)
+- [Final Thoughts](#final-thoughts)
+- [Conclusion](#conclusion)
 
 ## Overview
 
@@ -45,13 +35,10 @@ At a complex level, kiternetes is a
 
 ## Architecture
 
-
-
 ## Equipment and Parts
 
 Physical Kits        |         Accessories
 :-------------------------:|:-------------------------:
-
 
 
 ![kiternetes-kits-photo](images/kiternetes-parts-kits.jpg)
@@ -62,15 +49,10 @@ Physical Kits        |         Accessories
 ## Installs and Deployments
 
 
-
 ## Setup and Configuration
-
 
 
 ## Final Thoughts
 
 
-
 ## Conclusion
-
-
